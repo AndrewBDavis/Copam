@@ -1,0 +1,5 @@
+*.bak
+*.zip
+*fp-info-cache
+copam_gerbers/
+copam-backups/
